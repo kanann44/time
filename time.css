@@ -1,0 +1,54 @@
+body{
+  background-color: rgb(223, 217, 217);
+  text-align: center;
+}
+
+h3{
+background-color: white;
+padding: 10px;
+margin: 70px auto 50px;
+width: 300px;
+border-radius: 5px;
+}
+
+.content{
+  background-color: black;
+  color: white;
+  padding: 15px;
+  margin: 0 auto 30px;
+  width: 350px;
+  font-size: 30px;
+}
+
+.content p{
+  margin: 0;
+  padding: 0;
+}
+
+.button{
+  width: 100%;
+}
+
+.buttonbutton{
+  width: 100%;
+}
+
+button button{
+  border:none;
+  width: 80px;
+  padding:10px 0 10px 0;
+  border-radius: 6px;
+  color: white;
+  background-color: rgba(2,61,255,.8);
+  box-shadow: 3px 3px 6px rgba(0,0,0,.4);
+}
+
+.buttonbutton button{
+  border:none;
+  width: 80px;
+  padding:10px 0 10px 0;
+  border-radius: 6px;
+  color: black;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 3px 3px 6px rgba(0,0,0,.4);
+}
